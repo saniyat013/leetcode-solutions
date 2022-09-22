@@ -1,4 +1,4 @@
-package problems.oneproblemaday;
+package problems.oneProblemaDay;
 
 public class AddTwoNumbers {
 	public static class ListNode {

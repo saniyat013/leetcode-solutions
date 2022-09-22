@@ -1,4 +1,4 @@
-package problems.oneproblemaday;
+package problems.oneProblemaDay;
 
 import java.util.HashSet;
 
