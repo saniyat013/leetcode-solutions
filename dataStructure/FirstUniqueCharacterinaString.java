@@ -1,4 +1,4 @@
-package problems.datastructure;
+package problems.dataStructure;
 
 import java.util.HashSet;
 import java.util.LinkedHashMap;

@@ -1,4 +1,4 @@
-package problems.datastructure;
+package problems.dataStructure;
 
 public class MaximumSubarray {
 

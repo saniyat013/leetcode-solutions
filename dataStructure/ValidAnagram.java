@@ -1,4 +1,4 @@
-package problems.datastructure;
+package problems.dataStructure;
 
 public class ValidAnagram {
 	public static boolean isAnagram(String s, String t) {
