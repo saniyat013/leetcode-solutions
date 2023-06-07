@@ -1,4 +1,4 @@
-package problems.neetcode150.arraysnhashing;
+package problems.neetcode150.twopointers;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
