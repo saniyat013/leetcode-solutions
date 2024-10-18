@@ -1,4 +1,4 @@
-package problems.arrays101;
+package com.saniyat.problemSolving.leetcodeSolutions.arrays101;
 
 public class RemoveElement {
 	public static int removeElement(int[] nums, int val) {

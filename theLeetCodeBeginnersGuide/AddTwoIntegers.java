@@ -1,4 +1,4 @@
-package problems.theLeetCodeBeginnersGuide;
+package com.saniyat.problemSolving.leetcodeSolutions.theLeetCodeBeginnersGuide;
 
 public class AddTwoIntegers {
 	public static int sum(int num1, int num2) {

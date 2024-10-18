@@ -1,4 +1,4 @@
-package problems.theLeetCodeBeginnersGuide;
+package com.saniyat.problemSolving.leetcodeSolutions.theLeetCodeBeginnersGuide;
 
 public class RunningSumof1dArray {
 	public static int[] runningSum(int[] nums) {

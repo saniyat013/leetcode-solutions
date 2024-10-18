@@ -1,4 +1,4 @@
-package problems.neetcode150.arraysnhashing;
+package com.saniyat.problemSolving.leetcodeSolutions.neetcode150.arraysnhashing;
 
 import java.util.ArrayList;
 import java.util.Arrays;

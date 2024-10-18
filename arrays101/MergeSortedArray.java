@@ -1,4 +1,4 @@
-package problems.arrays101;
+package com.saniyat.problemSolving.leetcodeSolutions.arrays101;
 
 public class MergeSortedArray {
 	public static void merge(int[] nums1, int m, int[] nums2, int n) {

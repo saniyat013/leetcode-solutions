@@ -1,4 +1,4 @@
-package problems.oneProblemaDay;
+package com.saniyat.problemSolving.leetcodeSolutions.oneProblemaDay;
 
 public class RemoveDuplicatesfromSortedArray {
 	public static int removeDuplicates(int[] nums) {

@@ -1,4 +1,4 @@
-package problems.arrays101;
+package com.saniyat.problemSolving.leetcodeSolutions.arrays101;
 
 public class ReplaceElementswithGreatestElementonRightSide {
 	public static int[] replaceElements(int[] arr) {

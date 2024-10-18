@@ -1,4 +1,4 @@
-package problems.oneProblemaDay;
+package com.saniyat.problemSolving.leetcodeSolutions.oneProblemaDay;
 
 //Definition for a binary tree node.
 class TreeNode {

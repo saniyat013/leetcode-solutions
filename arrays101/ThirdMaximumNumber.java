@@ -1,4 +1,4 @@
-package problems.arrays101;
+package com.saniyat.problemSolving.leetcodeSolutions.arrays101;
 
 import java.util.Arrays;
 import java.util.Collections;

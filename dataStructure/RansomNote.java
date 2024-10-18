@@ -1,4 +1,4 @@
-package problems.dataStructure;
+package com.saniyat.problemSolving.leetcodeSolutions.dataStructure;
 
 import java.util.HashMap;
 

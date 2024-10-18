@@ -1,4 +1,4 @@
-package problems.theLeetCodeBeginnersGuide;
+package com.saniyat.problemSolving.leetcodeSolutions.theLeetCodeBeginnersGuide;
 
 import java.util.HashMap;
 

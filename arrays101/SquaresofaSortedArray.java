@@ -1,4 +1,4 @@
-package problems.arrays101;
+package com.saniyat.problemSolving.leetcodeSolutions.arrays101;
 
 public class SquaresofaSortedArray {
 	public static int[] sortedSquares(int[] nums) {

@@ -1,4 +1,4 @@
-package problems.oneProblemaDay;
+package com.saniyat.problemSolving.leetcodeSolutions.oneProblemaDay;
 
 import java.util.HashMap;
 import java.util.Map;

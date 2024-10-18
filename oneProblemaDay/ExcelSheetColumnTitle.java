@@ -1,4 +1,4 @@
-package problems.oneProblemaDay;
+package com.saniyat.problemSolving.leetcodeSolutions.oneProblemaDay;
 
 public class ExcelSheetColumnTitle {
 	public static String convertToTitle(int columnNumber) {

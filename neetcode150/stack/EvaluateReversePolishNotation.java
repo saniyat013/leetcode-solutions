@@ -1,4 +1,4 @@
-package problems.neetcode150.stack;
+package com.saniyat.problemSolving.leetcodeSolutions.neetcode150.stack;
 
 import java.util.Stack;
 

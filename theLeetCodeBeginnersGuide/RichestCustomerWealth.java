@@ -1,4 +1,4 @@
-package problems.theLeetCodeBeginnersGuide;
+package com.saniyat.problemSolving.leetcodeSolutions.theLeetCodeBeginnersGuide;
 
 public class RichestCustomerWealth {
 	public static int maximumWealth(int[][] accounts) {

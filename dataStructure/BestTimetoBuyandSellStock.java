@@ -1,4 +1,4 @@
-package problems.dataStructure;
+package com.saniyat.problemSolving.leetcodeSolutions.dataStructure;
 
 public class BestTimetoBuyandSellStock {
 	public static int maxProfit(int[] prices) {

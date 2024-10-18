@@ -1,4 +1,4 @@
-package problems.neetcode150.slidingwindow;
+package com.saniyat.problemSolving.leetcodeSolutions.neetcode150.slidingwindow;
 
 public class BestTimetoBuyandSellStock {
 	public static int maxProfit(int[] prices) {

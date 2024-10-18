@@ -1,4 +1,4 @@
-package problems.neetcode150.arraysnhashing;
+package com.saniyat.problemSolving.leetcodeSolutions.neetcode150.arraysnhashing;
 
 public class ValidAnagram {
 	public static boolean isAnagram(String s, String t) {
